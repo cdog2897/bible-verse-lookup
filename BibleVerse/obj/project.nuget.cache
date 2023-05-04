@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sBPLDsuJk/EBC3MnHl123gZcmIgpJFDcVccOtMb6YBusr+Og+T36EiOv4fu1yfNPJTQO4SZLh81CtGoxXu83rQ==",
+  "success": true,
+  "projectFilePath": "/Users/luberdoodle/Projects/BibleVerse/BibleVerse/BibleVerse.csproj",
+  "expectedPackageFiles": [
+    "/Users/luberdoodle/.nuget/packages/mysqlconnector/2.2.5/mysqlconnector.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
